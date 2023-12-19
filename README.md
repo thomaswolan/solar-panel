@@ -10,12 +10,12 @@ This project involves the creation of a sunlight-tracking solar panel using Ardu
 - **Full 360° Control:** Utilizing servo motors, the solar panel achieves a complete rotational adjustment for optimal positioning.
 - **CAD Modeling and 3D Printing:** The design project includes CAD modeling in SolidWorks and 3D printing to craft each component.
 
-## Results
-
-The implementation of this sunlight-tracking solar panel has led to a significant improvement in energy production, showcasing a ~15% increase compared to standard panels.
-
 ## Technologies Used
 
 - Arduino
 - SolidWorks (CAD Modeling)
 - 3D Printing
+
+## Results
+
+The implementation of this sunlight-tracking solar panel has led to a significant improvement in energy production, showcasing a ~15% increase compared to standard panels.
