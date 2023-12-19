@@ -18,4 +18,4 @@ This project involves the creation of a sunlight-tracking solar panel using Ardu
 
 ## Results
 
-The implementation of this sunlight-tracking solar panel has led to a significant improvement in energy production, showcasing a ~15% increase compared to standard panels.
+The implementation of this sunlight-tracking solar panel has led to a significant improvement in energy production, showcasing a ~15% increase compared to standard panels. The Arduino file includes all the essential software components required for the project, including code for controlling servo motors, managing light sensors, and ensuring dynamic sunlight tracking functionality.
